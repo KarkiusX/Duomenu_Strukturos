@@ -1,2 +1,2 @@
 # Duomenu_Strukturos
-Individual work.
+Individual works.
