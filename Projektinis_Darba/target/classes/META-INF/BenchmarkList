@@ -1,0 +1,4 @@
+JMH S 14 Test.Benchmark S 49 Test.generated.Benchmark_TestSparseRemove_jmhTest S 16 TestSparseRemove S 10 Throughput E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 4 size 5 2 10 3 100 4 1000 5 10000 5 10000 E E E 
+JMH S 14 Test.Benchmark S 44 Test.generated.Benchmark_TestHashMap_jmhTest S 11 TestHashMap S 10 Throughput E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 4 size 5 2 10 3 100 4 1000 5 10000 5 10000 E E E 
+JMH S 14 Test.Benchmark S 43 Test.generated.Benchmark_TestSparse_jmhTest S 10 TestSparse S 10 Throughput E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 4 size 5 2 10 3 100 4 1000 5 10000 5 10000 E E E 
+JMH S 14 Test.Benchmark S 50 Test.generated.Benchmark_TestHashMapRemove_jmhTest S 17 TestHashMapRemove S 10 Throughput E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 I 1 0 E E E E M 1 4 size 5 2 10 3 100 4 1000 5 10000 5 10000 E E E 
